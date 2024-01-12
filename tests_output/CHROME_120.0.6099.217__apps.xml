@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="3">
+
+  <testsuite name="apps"
+    errors="0" failures="0" hostname="" id="" package="apps" skipped="0"
+    tests="3" time="19.98" timestamp="">
+  
+    <testcase name="Go to Age Calculator" classname="apps" time="1.893" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="Go to Payment Calculator" classname="apps" time="3.209" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Go to Rent Calculator" classname="apps" time="3.788" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>
