@@ -1,8 +1,7 @@
 module.exports = {
     before: function (browser) {
-        //Declaring Global Timeout
-        browser
-            .globals.waitForConditionTimeout = 7000
+        browser.globals.waitForConditionTimeout = 7000
+        browser.window.maximize()
     },
     
     "Go to Sign Up": function(browser){

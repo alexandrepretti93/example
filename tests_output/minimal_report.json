@@ -1,1 +1,1 @@
-{"modules":{"firsttest":{"modulePath":"C:\\Users\\BairesDev\\Desktop\\nightwatch\\example\\tests\\firsttest.js","status":"pass"}}}
+{"modules":{"signup":{"modulePath":"C:\\Users\\BairesDev\\Desktop\\nightwatch\\example\\tests\\signup.js","status":"pass"},"homebuttons":{"modulePath":"C:\\Users\\BairesDev\\Desktop\\nightwatch\\example\\tests\\homebuttons.js","status":"pass"}}}
